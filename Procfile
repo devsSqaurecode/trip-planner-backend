@@ -1,0 +1,1 @@
+web: gunicorn trip_planner_apis.wsgi --log-file -
